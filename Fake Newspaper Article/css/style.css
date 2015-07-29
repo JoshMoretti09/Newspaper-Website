@@ -1,0 +1,65 @@
+#titleHeader {
+	text-align: center;
+	font-family: 'Shadows Into Light', cursive;
+    border-bottom: 1px solid black;
+}
+
+h3 {
+    margin: 0 auto;
+    padding-top: 1em;
+}
+
+/*Stlying for the content*/
+
+#article-section1, #article-section2 {
+    padding: 1em 1em 2em 1em;
+    border: 5px solid black;
+    border-radius: 2em;
+    max-width: 50%;
+    margin: 0 auto;
+    font-family: 'Handlee', cursive;
+    -webkit-column-count: 2;
+    -moz-column-count: 2; 
+    column-count: 2;
+}
+
+
+footer {
+	font-family: 'Shadows Into Light', cursive;
+	text-align: center;
+	padding-right: 2em;
+    border-top: 1px solid black;
+}
+
+body {
+	background: url('../img/bkg3.jpg');
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    width: 60%;
+   float: left;
+}
+
+ul {
+    width: 50%;
+    margin: 0 auto;
+    padding: 0;
+}
+
+ul li {
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 5px;
+    padding: 1em;
+    font-family: 'Shadows Into Light', cursive;
+}
+

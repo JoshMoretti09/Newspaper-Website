@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n	<head>\n		<title>Philadelphia</title>\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"css/	style.css\">\n	</head>\n	<body>\n		<div id=\"main-image\">\n			<h1 class=\"main-title\"><em>Philadelphia</em></h1>\n			<h1 class=\"main-title\"><strong>The City of Brothery Love</strong></h1>\n		</div>\n\n		<!-- First Content Area-->\n		<div id=\"main-content\">\n			<h2 class=\"content-head\"><a href=\"info.html\">A City filled with History</a></h2>\n			<p class=\"article-content\">Founded by William Penn in 1682 to serve as capital of the Pennsylvania Colony. During the American Revolution, Philadelphia played an instrumental role as a meeting place for the Founding Fathers of the United States, who signed the Declaration of Independence in 1776 and the Constitution in 1787.</p>\n\n			<!-- 2nd content Area-->\n			<h2 class=\"content-head\"><a href=\"info.html\">A City filled with Food</a>\n			</h2>\n			<p class=\"article-content\">Fine dining in philadelphia has never been better with famous restaurants such as Buddakan&comma; The City Tavern and realativiy new Steakhouses like the Barclay Prime home of the Barclay Prime Cheesesteak which is an interesting take on a classic Philly Cheesesteak served with a bottle of Champagne.</p>\n		</div>\n		<!-- Page footer area -->\n		<div>\n			<p class=\"sub-content\">For more infomation about Philadelphia check out the <a href=\"https://en.wikipedia.org/wiki/Philadelphia\" target=\"_new\">Wikipedia</a> page</p>	\n			\n\n			<footer><strong>Josh Moretti | Student</strong></footer>\n		</div>\n	</body>	\n\n\n\n\n\n</html>",
+			"file": "index.html",
+			"file_size": 1571,
+			"file_write_time": 1437702735000000,
+			"settings":
+			{
+				"buffer_size": 1537,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n	<head>\n		<title>The City of Brotherly Love</title>\n		<link rel=\"stylesheet\" type=\"text/css\" href=\"css/style.css\">\n	</head>\n	<body>\n		<!-- List items with links to historical sites-->\n		<div>\n			<h6><a href=\"index.html\">Home</a></h6>\n			<h3 class=\"content-head\">Historical Places to visit in philly</h3>\n			<img src=\"image/philly_art.jpg\">\n			<p class=\"article-content\">Below is a short list of fun places to visit that showcase the hisotric value of Philadelphia, with the world renown Art Museum and the Franklin insitute.</p>\n				<ul>\n					<li><a href=\"http://www.philamuseum.org/\" target=\"_new\">The Philadelphia Museum of Art</a></li>\n					<li><a href=\"https://www.fi.edu/\" target=\"_new\">The Franklin Institute</a></li>\n					<li><a href=\"http://www.ansp.org/\" target=\"_new\">Academy of Natural Sciences</a></li>\n				</ul>\n		</div>\n\n		<!-- List items with links to food places-->\n		<div>\n			<h3 class=\"content-head\">Places to Eat</h3>\n			<img src=\"image/iceCream.jpg\">\n			<p class=\"article-content\">Another list of fun places to eat bekow. The City Tavern will wow with it&apos;s authentic menu and Franklin Fountain will amaze with delicious&comma; inventive&comma; and awesome sundaes.</P>\n				<ul>\n					<li><a href=\"http://www.citytavern.com/\" target=\"_new\">The City Tavern</a></li>\n					<li><a href=\"http://www.franklinfountain.com/\" target=\"_new\">Franklin Fountain</a></li>\n					<li><a href=\"https://www.thecapitalgrille.com/\" target=\"_new\">Capital Grille</a></li>\n				</ul>\n		</div>\n\n		<!-- Page Footer Area-->\n		<div>\n			<p>For more infomation about Philadelphia check out the <a href=\"https://en.wikipedia.org/wiki/Philadelphia\" target=\"_new\">Wikipedia</a> page</p>	\n			\n\n			<footer><strong>Josh Moretti | Student</strong></footer>\n		</div>\n	</body>\n</html>",
+			"file": "info.html",
+			"file_size": 1773,
+			"file_write_time": 1437703982000000,
+			"settings":
+			{
+				"buffer_size": 1790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 871,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joshmoretti/Desktop/First Web Page NYCDA/style.css",
+		"/Users/joshmoretti/Desktop/index.html",
+		"/Users/joshmoretti/Desktop/info.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1537,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "info.html",
+					"settings":
+					{
+						"buffer_size": 1790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 89.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/style.css",
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
