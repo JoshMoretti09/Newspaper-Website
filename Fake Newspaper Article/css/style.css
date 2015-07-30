@@ -1,7 +1,16 @@
+body {
+    background: url('../img/bkg3.jpg');
+}
+
 #titleHeader {
 	text-align: center;
 	font-family: 'Shadows Into Light', cursive;
     border-bottom: 1px solid black;
+}
+
+#example-title {
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
 }
 
 h3 {
@@ -29,23 +38,26 @@ footer {
 	text-align: center;
 	padding-right: 2em;
     border-top: 1px solid black;
+    clear: both;
 }
 
-body {
-	background: url('../img/bkg3.jpg');
-}
 
 a {
     text-decoration: none;
     color: black;
 }
+
 a:hover {
     text-decoration: underline;
 }
 
-img {
+.homepage-img {
     width: 60%;
    float: left;
+}
+
+nav {
+    text-align: center;
 }
 
 ul {
@@ -58,8 +70,38 @@ ul li {
     display: inline-block;
     text-decoration: none;
     list-style: none;
-    margin-left: 5px;
     padding: 1em;
     font-family: 'Shadows Into Light', cursive;
 }
 
+.facebook-img {
+    position: fixed;
+    bottom: 200px;
+    width: 10%;
+}
+
+span {
+    position: fixed;
+    bottom: 160px;
+    width: 10%;
+    left: 25px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.example {
+    display: inline-block;
+    width: 40%;
+    margin: 1em 2em;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+    font-family: 'Shadows Into Light', cursive;
+    float: right;
+}
+
+#meme {
+    width: 35%;
+    float: left;
+}
